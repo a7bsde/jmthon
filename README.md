@@ -8,10 +8,6 @@
 ## شكـرا لكـم 
 
 
-## المطـورين 
+## المطـور
 
-[jmthon source](https://t.me/jmthon)
-
-[MUHAMMAD](https://t.me/RR9R7)
-
-[JASEM](https://t.me/SBB_B)
+@ksamstc
